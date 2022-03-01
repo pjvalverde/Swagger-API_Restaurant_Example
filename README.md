@@ -1,3 +1,4 @@
 # Swagger-API_Restaurant_Example
 Here we use Swagger with a restaurant application, using POST and DELETE
-![gitSRE.png](:/3551d9b6df644fdf950c03e4b156d42b)
+
+![SWR](https://drive.google.com/file/d/1sNDjjrrmqFTqBgJO10SvxpFuBFE2HoKi/view?usp=sharing)
